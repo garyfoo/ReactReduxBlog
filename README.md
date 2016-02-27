@@ -1,6 +1,7 @@
-# ReduxSimpleStarter
+# ReactReduxBlog
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+My third React Redux web app. Bult with ReactJS, ReactDOM and Redux. Purely for learning purposes. :)
+Note: This is made while following the tutorial from https://www.udemy.com/react-redux
 
 ###Getting Started###
 
